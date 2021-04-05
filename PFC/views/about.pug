@@ -1,0 +1,10 @@
+extends layout
+
+block content
+  h1 #{title} 
+  h2 The authors: 
+  div.authors
+    each author in authors
+        h3= author.toUpperCase()
+  
+  p.version Version v#{version}

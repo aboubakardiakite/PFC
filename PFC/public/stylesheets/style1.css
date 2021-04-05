@@ -1,0 +1,50 @@
+
+h1{
+    background-color: silver;
+    color: purple;
+}
+
+.main{
+    width: 150px;
+    height: 150px;
+    margin: 100px;
+    margin-left: 140px;
+    position:relative;
+    background-color: white;
+}
+#main{
+    margin-bottom: 60px;
+    background-color: azure;
+
+}
+
+#play{
+    margin: auto;
+    width: 100px;
+    height: 30px;
+}
+
+#dplay{
+    margin-left: 480px;
+    margin-top: 200px;
+    font-size: 35px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:salmon;
+}
+
+
+
+.choice{
+    margin-left: 200px; 
+    font-size: 35px;
+    margin-bottom: 100px;
+    color: gray;
+}
+#dp{
+    margin-top: 100px;
+}
+#res{
+    margin-left: 580px;
+    color: silver;
+    font-size: 40px;
+}
